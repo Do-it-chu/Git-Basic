@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:f298e7,100:a5f9f9&height=300&section=header&text=Let%20it%20go!&fontSize=90&fontColor=ffffff)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Do-it-chu&theme=dracula&show_icons=true&descAlign=30)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Do-it-chu&theme=buefy&show_icons=true&descAlign=30)
+<img src="http://mazandi.herokuapp.com/api?handle=hot0721&theme=warm"/>
 ![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=false&color=gradient)
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&section=footer)
 ![header](https://capsule-render.vercel.app/api?text=itchu&animation=fadeIn&fontColor=ffffff)
 
 
