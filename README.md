@@ -1,6 +1,18 @@
-### Hi there 👋
+<div align=center>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f298e7,100:a5f9f9&height=300&section=header&text=Let%20it%20go!&fontSize=90&fontColor=ffffff&descAlign=20"/>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:f298e7,100:a5f9f9&height=300&section=header&text=Let%20it%20go!&fontSize=90&fontColor=ffffff)
+<p align=center&fontSize=15> 👋Introduction👋 </p>
+<center>🛠Skill🛠</center><br>
+
+<center>📚Studying🐢</center><br>
+
+<center>🛒Technical Debt💰</center><br>
+
+</div>
+
+
+:turtle:
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Do-it-chu&theme=buefy&show_icons=true&descAlign=30)
 <img src="http://mazandi.herokuapp.com/api?handle=hot0721&theme=warm"/>
 ![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
