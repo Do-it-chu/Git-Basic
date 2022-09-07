@@ -25,30 +25,21 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70" height="70"/>
 <br><br><br>
   
-<center>🛒Technical Debt💰</center><br>
+<center>🛒Technical Debt💰</center><br><br><br><br><br>
 
   
   
 </div>
 
 
+<div align=center>
 :turtle:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Do-it-chu&theme=buefy&show_icons=true&descAlign=30)
-<img src="http://mazandi.herokuapp.com/api?handle=hot0721&theme=warm"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaboza-JH&layout=compact&theme=vue&hide_border=true" /> <br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Do-it-chu&theme=buefy&show_icons=true&descAlign=30) <br>
+<img src="http://mazandi.herokuapp.com/api?handle=hot0721&theme=warm"/> <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Do-it-chu&layout=compact&theme=vue&hide_border=true" /> <br>
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=false&color=gradient)
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&section=footer)
-![header](https://capsule-render.vercel.app/api?text=itchu&animation=fadeIn&fontColor=ffffff)
-
-
-
-
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hot0721)](https://solved.ac/hot0721)
-
+</div>
 <!-- ![footer](https://capsule-render.vercel.app/api?section=footer) -->
 
 <!--
