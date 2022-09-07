@@ -2,7 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f298e7,100:a5f9f9&height=300&section=header&text=Let%20it%20go!&fontSize=90&fontColor=ffffff&descAlign=20"/>
 
 <p align=center&fontSize=40> 👋Introduction👋 </p>
+
 <center>🛠Skill & Tool🛠</center><br>
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70"/>
@@ -27,8 +29,7 @@
   
 <center>🛒Technical Debt💰</center><br><br><br><br><br>
 
-  
-  
+
 </div>
 
 
