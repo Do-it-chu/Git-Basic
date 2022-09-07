@@ -15,14 +15,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="70" height="70"/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="70" height="70"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="70" height="70"/><br><br><br>
+<img src="https://images.velog.io/images/bonjaski0989/post/e24aa1c8-82dd-4aaa-937c-b2bc13ea3ab0/amazon_ec2.png" width="189" height="100"/> <br>
+<img src="https://images.velog.io/images/doohyunlm/post/6e997033-ec22-4718-80ac-78353b9a0854/s3.png" width="100" height="70"/> <br><br><br>
+  
+
 
 
 <center>📚Studying🐢</center><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70" height="70"/
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="70" height="70"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="70" height="70"/><br><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70" height="70"/>
+<br><br><br>
   
 <center>🛒Technical Debt💰</center><br>
 
